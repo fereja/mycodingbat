@@ -1,2 +1,2 @@
 # mycodingbat
-my code java codes 
+my code java code
